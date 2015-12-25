@@ -42,14 +42,14 @@
     <div class="h_content">
         <div class="head_div">
         <div class="cycle_div">
-            <a class="github_a" href="https://github.com/xxxholic" target="_blank">
+            <!-- <a class="github_a" href="https://github.com/xxxholic" target="_blank">
                     <span class="github_icon"></span>
             </a>
             <a class="sina_a" href="http://weibo.com/guzhengjustme" target="_blank">
                     <span class="sina_icon"></span>
-            </a>
+            </a> -->
             <div class="head_anima">
-                <img class="head_img" src="<?php echo get_template_directory_uri(); ?>/images/upload/lb-logo.png">
+                <img class="head_img" src="<?php echo get_template_directory_uri(); ?>/images/upload/bl-logo.jpg">
             </div>
         </div>      
         </div>
