@@ -49,9 +49,6 @@
                     <span class="sina_icon"></span>
             </a>
             <div class="head_anima">
-                <img class="green_cycle_img" src="<?php echo get_template_directory_uri(); ?>/images/icon/green_cycle.svg">
-                <img class="yellow_cycle_img" src="<?php echo get_template_directory_uri(); ?>/images/icon/yellow_cycle.svg">
-                <img class="blue_cycle_img" src="<?php echo get_template_directory_uri(); ?>/images/icon/blue_cycle.svg">                
                 <img class="head_img" src="<?php echo get_template_directory_uri(); ?>/images/upload/head.jpg">
             </div>
         </div>      
