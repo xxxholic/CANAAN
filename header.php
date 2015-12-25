@@ -38,7 +38,7 @@
 <body>
 
 <header class="head_content">
-    <div class="plur"></div>
+    <!-- <div class="plur"></div> -->
     <div class="h_content">
         <div class="head_div">
         <div class="cycle_div">
