@@ -42,14 +42,14 @@
     <div class="h_content">
         <div class="head_div">
         <div class="cycle_div">
-            <a class="github_a" href="https://github.com/IceEnd" target="_blank">
+            <a class="github_a" href="https://github.com/xxxholic" target="_blank">
                     <span class="github_icon"></span>
             </a>
-            <a class="sina_a" href="http://weibo.com/lavenderecho" target="_blank">
+            <a class="sina_a" href="http://weibo.com/guzhengjustme" target="_blank">
                     <span class="sina_icon"></span>
             </a>
             <div class="head_anima">
-                <img class="head_img" src="<?php echo get_template_directory_uri(); ?>/images/upload/head.jpg">
+                <img class="head_img" src="<?php echo get_template_directory_uri(); ?>/images/upload/lb-logo.jpg">
             </div>
         </div>      
         </div>
@@ -63,7 +63,7 @@
 <header class="head_menu">
     <div class="head_menu_img">
         <img src="<?php echo get_template_directory_uri(); ?>/images/upload/head.jpg">
-        <h1 class="menu_title">Cononico</h1>
+        <h1 class="menu_title"><?php bloginfo('name'); ?></h1>
         <h2 class="menu_description">“<?php bloginfo('description'); ?>”</h2>
     </div>
     

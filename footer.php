@@ -10,7 +10,7 @@
 </div>
 <footer class="footer">
     <div class="footer_content">
-        <img src="<?php echo get_template_directory_uri(); ?>/images/upload/head.jpg">
+        <img src="<?php echo get_template_directory_uri(); ?>/images/upload/head.gif">
         <div class="footer_des">
             <h1 class="footer_title"><a href="<?php echo esc_url(home_url('/')); ?>" rel="home"><?php bloginfo('name'); ?></a></h1>
             <div class="h_dividing"></div>
