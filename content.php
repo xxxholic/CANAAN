@@ -4,7 +4,7 @@
     <article class="p_a<?php if ( !has_post_thumbnail() ) { echo ' p_lt'; };?>">
         <!-- 分类 -->
         <div class="category_div">
-            <h1><?php the_category(' ') ?>>
+            <h1><?php the_category(' ') ?>
             </h1>
         </div>
         <div class="dividing">
