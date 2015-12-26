@@ -14,7 +14,7 @@
         <div class="footer_des">
             <h1 class="footer_title"><a href="<?php echo esc_url(home_url('/')); ?>" rel="home"><?php bloginfo('name'); ?></a></h1>
             <div class="h_dividing"></div>
-            <h2 class="footer_description"><?php bloginfo('description'); ?></h2>
+            <h2 class="footer_description">本站由无罪搭建</h2>
         </div>
         <div class="copyright_div"><a title="holic">xxxholic</a> |   <a href="http://www.miitbeian.gov.cn/" title="beian">京备案申请中。。</a></div>
     </div>

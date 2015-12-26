@@ -49,7 +49,7 @@
                     <span class="sina_icon"></span>
             </a> -->
             <div class="head_anima">
-                <img class="head_img" src="<?php echo get_template_directory_uri(); ?>/images/upload/bl-logo.jpg">
+                <img class="head_img" src="<?php echo get_template_directory_uri(); ?>/images/upload/lb-logo.jpg">
             </div>
         </div>      
         </div>
