@@ -6,31 +6,31 @@
 
 @-webkit-keyframes headneon {
     from {
-        box-shadow: 0 0 1px rgba(255,255,255,.6),
-                    0 0 2px rgba(255,255,255,.6),
-                    0 0 3px rgba(255,255,255,.6),
-                    0 0 4px rgba(255,255,255,.6);
+        box-shadow: 0 0 1px rgba(3,3,3,.6),
+                    0 0 2px rgba(3,3,3,.6),
+                    0 0 3px rgba(3,3,3,.6),
+                    0 0 4px rgba(3,3,3,.6);
     }
     to {
-        box-shadow: 0 0 5px rgba(255,255,255,.6),
-                    0 0 10px rgba(255,255,255,.6),
-                    0 0 15px rgba(255,255,255,.6),
-                    0 0 20px rgba(255,255,255,.6);
+        box-shadow: 0 0 5px rgba(119,180,15,.6),
+                    0 0 10px rgba(119,180,15,.6),
+                    0 0 15px rgba(119,180,15,.6),
+                    0 0 20px rgba(119,180,15,.6);
     }
 }
 
 @-moz-keyframes headneon {
     from {
-        box-shadow: 0 0 1px rgba(255,255,255,.6),
-                    0 0 2px rgba(255,255,255,.6),
-                    0 0 3px rgba(255,255,255,.6),
-                    0 0 4px rgba(255,255,255,.6);
+        box-shadow: 0 0 1px rgba(3,3,3,.6),
+                    0 0 2px rgba(3,3,3,.6),
+                    0 0 3px rgba(3,3,3,.6),
+                    0 0 4px rgba(3,3,3,.6);
     }
     to {
-        box-shadow: 0 0 5px rgba(255,255,255,.6),
-                    0 0 10px rgba(255,255,255,.6),
-                    0 0 15px rgba(255,255,255,.6),
-                    0 0 20px rgba(255,255,255,.6);
+        box-shadow: 0 0 5px rgba(119,180,15,.6),
+                    0 0 10px rgba(119,180,15,.6),
+                    0 0 15px rgba(119,180,15,.6),
+                    0 0 20px rgba(119,180,15,.6);
     }
 }
 
